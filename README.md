@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpiderDom
 - 👀 I’m interested in E-Health
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: domenicopiscite2003@gmail.com
 
 <!---
